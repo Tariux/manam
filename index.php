@@ -1,3 +1,10 @@
+<?php
+
+    require("./Manam.php");
+    $Manam = new Manam;
+
+?>
+
 <!DOCTYPE html>
 <html lang="fa">
 
