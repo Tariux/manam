@@ -1,5 +1,6 @@
 <?php
-    echo hi();
+    //echo hi();
+    Manam::loadScript("http://localhost/manam/script/test.js")
 ?>
 
 <div class="manamSimpleAuth">

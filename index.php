@@ -23,6 +23,7 @@
 
     include_once("./template/simpleAuthButton.php");
     ?>
+    
 </body>
 
 </html>
